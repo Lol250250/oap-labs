@@ -1,0 +1,2 @@
+g++ (Debian 14.2.0-19) 14.2.0
+Build: g++ -std=c++17 -Wall -Wextra -pedantic task1.cpp -o task1
